@@ -1,5 +1,17 @@
 :root {
+  /* Colors */
+  --color1: #212121;
+  --color2: #757575;
+  --color3: #ffffff;
+  --color4: #000000;
+  --color5: #2196f3;
+  --color6: #2f303a;
+  --color7: rgba(255, 255, 255, 0.6);
+  --color8: #ececec;
+  --color9: #f5f4fa;
+  --color10: #eeeeee;
 }
 
 body {
+  font-family: 'Roboto', sans-serif;
 }
